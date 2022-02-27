@@ -8,3 +8,4 @@
 4. Add and configure eslint extension for enforce code styles (1) run `npm install -D eslint eslint-config-prettier eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react eslint-plugin-react-hooks` (2) create `.eslintrc.json` file with the default configuration in the root directory (refer to commit). (3) create a script to run eslint from npm ``
 5. Install ESLint extension for VSCode (ESLint by Dirk Baeumer).
 6. Install babel `npm install -D @babel/core @babel/preset-react @babel/preset-env @babel/eslint-parser` and add default config in the `.babelrc` file (refer to commit)
+7. Add extra dependencies (like react and react-dom)
