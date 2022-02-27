@@ -10,3 +10,5 @@
 6. Install babel `npm install -D @babel/core @babel/preset-react @babel/preset-env @babel/eslint-parser` and add default config in the `.babelrc` file (refer to commit)
 7. Add extra dependencies (like react and react-dom)
 8. Add a bundler of preference (for this project parcel will be used) and create the respective script (refer to commit).
+
+##
